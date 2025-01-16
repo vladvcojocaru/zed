@@ -28,14 +28,14 @@
     "buffer_font_family": "JetBrainsMonoNL Nerd Font",
 
     "vim_mode": true,
-    "ui_font_size": 15,
-    "buffer_font_size": 15,
+    "ui_font_size": 14,
+    "buffer_font_size": 14,
     "relative_line_numbers": true,
     "current_line_highlight": "none",
     "theme": {
         "mode": "system",
-        "light": "VSCode Dark Modern",
-        "dark": "VSCode Dark Modern"
+        "light": "Rosé Pine Moon",
+        "dark": "Rosé Pine Moon"
     },
 
     "languages": {
